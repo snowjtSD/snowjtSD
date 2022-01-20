@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @snowjt
+- 👀 I’m interested in NerualNet, gaming, AI, frankly any CS project
+- 🌱 I’m currently learning NerualNet's and Basic AI development 
+- 💞️ I’m looking to collaborate on anything in the related interests 
+- 📫 How to reach me jsnow7@msudenver.edu
